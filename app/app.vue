@@ -1,7 +1,10 @@
 <template>>
     <UApp>
       <UHeader title="Nuxt UI">
-        </UHeader>
+      <template #right>
+        <UColorModeButton />
+      </template>
+      </UHeader>
       <NuxtPage></NuxtPage>
     </UApp>
 </template>
