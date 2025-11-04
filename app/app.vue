@@ -1,4 +1,4 @@
-<template>>
+<template>
     <UApp>
       <UHeader title="Nuxt UI">
       <template #right>
